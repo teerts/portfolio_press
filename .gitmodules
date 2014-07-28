@@ -1,0 +1,12 @@
+[submodule ".themes/yinyang"]
+	path = .themes/yinyang
+	url = https://github.com/qingwang/octopress-theme-yinyang
+[submodule ".themes/casper"]
+	path = .themes/casper
+	url = https://github.com/jkrmr/casper.git
+[submodule ".theme/theme1"]
+	path = .theme/theme1
+	url = https://github.com/fapper/classic-martinb
+[submodule ".theme/classic-martinb"]
+	path = .theme/classic-martinb
+	url = https://github.com/fapper/classic-martinb

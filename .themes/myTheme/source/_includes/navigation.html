@@ -1,0 +1,11 @@
+<ul class="main-navigation">
+{% if page.title == nil %} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/">portfolio</a></li></div><div class="spacer"></div>
+    {% if page.title == 'Projects'%} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/projects">projects</a></li></div><div class="spacer"></div>
+      {% if page.title == 'Work'%} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/about">about</a></li></div><div class="spacer"></div>
+        {% if page.title == 'About me'%} <div class="selected"> {% else %} <div> {% endif %}
+  <li><a href="{{ root_url }}/contact">contact</a></li></div>
+</ul>
+  <!-- <li><a href="{{ root_url }}/blog/archives">Archives</a></li> -->

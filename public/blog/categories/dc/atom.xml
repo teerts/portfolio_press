@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dc, | Gerry's Portfolio]]></title>
+  <link href="http://ggrewall.com/blog/categories/dc/atom.xml" rel="self"/>
+  <link href="http://ggrewall.com/"/>
+  <updated>2014-07-28T14:13:43-07:00</updated>
+  <id>http://ggrewall.com/</id>
+  <author>
+    <name><![CDATA[Gerry Grewall]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Power Supply Project]]></title>
+    <link href="http://ggrewall.com/blog/2014/07/27/power-supply-project/"/>
+    <updated>2014-07-27T18:04:58-07:00</updated>
+    <id>http://ggrewall.com/blog/2014/07/27/power-supply-project</id>
+    <content type="html"><![CDATA[<p>This project.</p>
+]]></content>
+  </entry>
+  
+</feed>

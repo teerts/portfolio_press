@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Gerry's Portfolio]]></title>
+  <link href="http://ggrewall.com/atom.xml" rel="self"/>
+  <link href="http://ggrewall.com/"/>
+  <updated>2014-07-28T14:13:43-07:00</updated>
+  <id>http://ggrewall.com/</id>
+  <author>
+    <name><![CDATA[Gerry Grewall]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Water Lift Station Using Siemens PLC]]></title>
+    <link href="http://ggrewall.com/blog/2014/07/27/water-lift-station-using-siemens-plc/"/>
+    <updated>2014-07-27T18:12:47-07:00</updated>
+    <id>http://ggrewall.com/blog/2014/07/27/water-lift-station-using-siemens-plc</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quadcopter Project]]></title>
+    <link href="http://ggrewall.com/blog/2014/07/27/quadcopter-project/"/>
+    <updated>2014-07-27T18:12:14-07:00</updated>
+    <id>http://ggrewall.com/blog/2014/07/27/quadcopter-project</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Laser Targetting System Using Arduino/C++]]></title>
+    <link href="http://ggrewall.com/blog/2014/07/27/laser-targetting-system-using-arduino-slash-c-plus-plus/"/>
+    <updated>2014-07-27T18:11:53-07:00</updated>
+    <id>http://ggrewall.com/blog/2014/07/27/laser-targetting-system-using-arduino-slash-c-plus-plus</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[USB GIZMO Expansion]]></title>
+    <link href="http://ggrewall.com/blog/2014/07/27/usb-gizmo-expansion/"/>
+    <updated>2014-07-27T18:11:29-07:00</updated>
+    <id>http://ggrewall.com/blog/2014/07/27/usb-gizmo-expansion</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Power Supply Project]]></title>
+    <link href="http://ggrewall.com/blog/2014/07/27/power-supply-project/"/>
+    <updated>2014-07-27T18:04:58-07:00</updated>
+    <id>http://ggrewall.com/blog/2014/07/27/power-supply-project</id>
+    <content type="html"><![CDATA[<p>This project.</p>
+]]></content>
+  </entry>
+  
+</feed>
